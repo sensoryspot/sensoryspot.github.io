@@ -81,7 +81,7 @@ This URL is used for all general store calls to action. On `resources.html`, rep
 
 ### Resource products
 
-The three samples on `resources.html` are intentionally labeled as post-launch placeholders. When products are selected, replace the image area, title, description, age or grade range, resource type, direct TPT URL, and any optional price or accessibility information. Remove the “Sample placeholder” label only after the product is real and published.
+The three featured areas on `resources.html` use warm, visitor-facing “Coming soon” content until real products are selected. Editing instructions remain in HTML comments. When products are ready, replace each image area, label, title, description, and general store link; then add the age or grade range, resource type, optional price, and accessibility details where useful.
 
 ### Canonical website URL
 
@@ -189,12 +189,6 @@ Before launch, search the repository for each of these values and content labels
 
 - Visible OT name: `TBD`
 - `REPLACE-WITH-PORTRAIT`
-- `Resource title goes here`
-- `Replace with a short resource description`
-- `Add product image`
-- `Add range`
-- `Add type`
-- `Optional - add or remove`
-- `Optional - add details`
-- `Add TPT link`
+- Three visitor-facing “Coming soon” resource areas on `resources.html`
+- Real resource images, titles, descriptions, age or grade ranges, resource types, direct TPT links, and any optional price or accessibility details
 - Optional confirmed biography details

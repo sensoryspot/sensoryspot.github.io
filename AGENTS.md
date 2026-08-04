@@ -111,7 +111,7 @@ Every pending commit must show `sensoryspot <313073297+sensoryspot@users.noreply
 6. Search for accidental placeholders with:
 
    ```bash
-   rg -n 'REPLACE-WITH|Resource title goes here|Add product image|Add TPT link|TBD' .
+   rg -n 'REPLACE-WITH|Coming soon|New resources coming soon|TBD' .
    ```
 
 7. Compare results with the accepted placeholders listed above and `README.md`.

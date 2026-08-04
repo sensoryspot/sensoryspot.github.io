@@ -863,15 +863,6 @@ ol:last-child {
   text-transform: uppercase;
 }
 
-.resource-meta {
-  display: grid;
-  margin: 0 0 1rem;
-  padding: 0;
-  gap: 0.45rem;
-  list-style: none;
-}
-
-.resource-meta strong { color: var(--ink-strong); }
 .resource-card .text-link { margin-top: auto; }
 
 /* Contact and 404 */
