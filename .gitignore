@@ -1,0 +1,33 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE state
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Temporary and generated working files
+tmp/
+*.tmp
+
+# Dependency folders are not expected, but should never be committed accidentally
+node_modules/
+
