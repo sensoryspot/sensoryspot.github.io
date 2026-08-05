@@ -35,7 +35,7 @@ Do not replace an accepted placeholder or confirmed value without user-provided 
 
 ## Git identity and publishing safety
 
-All commits for this repository must use the Sensory Spot GitHub identity, never a personal Git identity.
+All commits for this repository must use the Sensory SpOT GitHub identity, never a personal Git identity.
 
 Expected repository-local values:
 
