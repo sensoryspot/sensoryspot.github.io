@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {"id": "sensory-bin", "name": "Sensory Bin Activities", "description": "Hands-on seasonal mats for letter recognition, counting, visual scanning, sorting, and fine motor practice."},
+    {"id": "fine-motor-handwriting", "name": "Fine Motor & Handwriting", "description": "Printables for prewriting, letter formation, visual-motor practice, and handwriting self-checks."},
+    {"id": "movement-gross-motor", "name": "Movement & Gross Motor", "description": "Seasonal movement activities for classroom breaks, therapy sessions, and active learning."},
+    {"id": "regulation-classroom", "name": "Sensory Regulation & Classroom Supports", "description": "Clear visual supports that help adults teach expectations for classroom regulation tools."}
+  ],
+  "products": [
+    {
+      "id": "seasonal-sensory-bin-mats",
+      "title": "10 months of Sensory Letter and Counting Mats",
+      "shortDescription": "Ten seasonal letter and number mats with a quick teacher guide for sensory play, centers, small groups, and occupational therapy sessions.",
+      "category": "sensory-bin",
+      "gradeRange": "PreK–3",
+      "skills": ["letter recognition", "number recognition", "counting", "visual scanning", "fine motor practice"],
+      "seasonalTheme": "Year-round seasonal collection",
+      "thumbnail": "assets/images/resources/seasonal-sensory-bin-mats.webp",
+      "thumbnailAlt": "Preview of Seasonal Sensory Bin Mats showing apple tree, turkey, snowflake, and flower letter and counting mats",
+      "thumbnailWidth": 1000,
+      "thumbnailHeight": 1000,
+      "tptUrl": "https://www.teacherspayteachers.com/Product/10-months-of-Sensory-Letter-and-Counting-Mats-17375066",
+      "priceStatus": "paid",
+      "featured": true,
+      "featuredOrder": 1,
+      "displayOrder": 1,
+      "availability": "published"
+    },
+    {
+      "id": "summer-letter-mat", "title": "June/Summer Sensory Bin Letter Mat", "shortDescription": "A summer-themed printable mat for letter identification, visual scanning, and fine motor practice during sensory play.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["letter recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "Summer", "thumbnail": null, "thumbnailAlt": null, "tptUrl": null, "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "spring-flower-letter-mat", "title": "Spring Flowers Sensory Bin Letter Mat", "shortDescription": "A spring flower mat that adds letter identification and visual-motor practice to sensory bins and learning centers.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["letter recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "Spring", "thumbnail": null, "thumbnailAlt": null, "tptUrl": null, "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "easter-letter-mat", "title": "Easter Sensory Bin Letter Mat", "shortDescription": "An Easter-themed letter mat for hands-on alphabet practice, visual scanning, and fine motor play.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["letter recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "Easter", "thumbnail": null, "thumbnailAlt": null, "tptUrl": "https://www.teacherspayteachers.com/Product/Easter-Sensory-Bin-Letter-Mat-17374956", "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "st-patricks-letter-mat", "title": "St. Patrick's Day Sensory Bin Letter Mat", "shortDescription": "A St. Patrick's Day alphabet mat for sensory centers, small groups, and early learning practice.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["letter recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "St. Patrick's Day", "thumbnail": null, "thumbnailAlt": null, "tptUrl": "https://www.teacherspayteachers.com/Product/St-Patricks-Day-Sensory-Bin-Letter-Mat-17374933", "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "valentines-number-mat", "title": "Valentine's Day Sensory Bin Number Mat", "shortDescription": "A Valentine's Day counting mat for number recognition, one-to-one counting, visual scanning, and fine motor practice.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["number recognition", "counting", "visual scanning", "fine motor practice"], "seasonalTheme": "Valentine's Day", "thumbnail": null, "thumbnailAlt": null, "tptUrl": "https://www.teacherspayteachers.com/Product/Valentines-Day-Sensory-Bin-Number-Mat-17374895", "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "winter-snowflake-number-mats", "title": "Winter Snowflake Sensory Bin Number Mats", "shortDescription": "A snowflake counting mat and teacher guide for number recognition, visual scanning, and hands-on early math practice.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["number recognition", "counting", "visual scanning", "fine motor practice"], "seasonalTheme": "Winter", "thumbnail": "assets/images/resources/winter-snowflake-number-mats.webp", "thumbnailAlt": "Preview of Winter Snowflake Sensory Bin Number Mats showing numbered blue snowflakes on a counting mat", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": "https://www.teacherspayteachers.com/Product/Winter-Snowflake-Sensory-Bin-Number-Mats-17374864", "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": 2, "availability": "published"
+    },
+    {
+      "id": "christmas-letter-mat", "title": "December Christmas Themed Sensory Bin Letter Mat", "shortDescription": "A Christmas-themed printable for letter identification, visual scanning, and fine motor practice in a sensory bin.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["letter recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "Christmas", "thumbnail": null, "thumbnailAlt": null, "tptUrl": null, "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "thanksgiving-letter-mat", "title": "Thanksgiving Sensory Bin Letter Mat", "shortDescription": "A Thanksgiving alphabet mat for sensory play, literacy centers, small groups, and occupational therapy sessions.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["letter recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "Thanksgiving", "thumbnail": "assets/images/resources/thanksgiving-sensory-bin-letter-mat.webp", "thumbnailAlt": "Preview of Thanksgiving Sensory Bin Letter Mat showing a turkey with colorful lettered feathers", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": "https://www.teacherspayteachers.com/Product/Thanksgiving-Sensory-Bin-Letter-Mat-17374777", "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": 3, "availability": "published"
+    },
+    {
+      "id": "fall-counting-mat", "title": "Sensory Bin Counting Mat", "shortDescription": "A fall-themed number mat for counting, number recognition, visual scanning, and fine motor practice.", "category": "sensory-bin", "gradeRange": "PreK–3", "skills": ["number recognition", "counting", "visual scanning", "fine motor practice"], "seasonalTheme": "Fall", "thumbnail": null, "thumbnailAlt": null, "tptUrl": "https://www.teacherspayteachers.com/Product/Fall-Sensory-Bin-Counting-Mat-Math-Fine-Motor-17333806", "priceStatus": "paid", "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "apple-tree-counting-mat", "title": "Apple Tree Counting Mat", "shortDescription": "An apple tree counting activity for early number practice, visual scanning, and hands-on fine motor learning.", "category": "sensory-bin", "gradeRange": null, "skills": ["counting", "number recognition", "visual scanning", "fine motor practice"], "seasonalTheme": "Fall / apples", "thumbnail": null, "thumbnailAlt": null, "tptUrl": null, "priceStatus": null, "featured": false, "featuredOrder": null, "displayOrder": null, "availability": "published"
+    },
+    {
+      "id": "alphabet-letter-roads", "title": "Alphabet Letter Roads", "shortDescription": "Uppercase and lowercase letter paths designed for tracing with fingers or toy cars before transitioning to pencil practice.", "category": "fine-motor-handwriting", "gradeRange": null, "skills": ["letter recognition", "prewriting", "visual-motor coordination", "letter formation"], "seasonalTheme": null, "thumbnail": "assets/images/resources/alphabet-letter-roads.webp", "thumbnailAlt": "Preview of Alphabet Letter Roads showing uppercase and lowercase A, B, and C road paths", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": "https://www.teacherspayteachers.com/Product/Alphabet-Letter-Roads-Multi-Sensory-Letter-Formation-Visual-Motor-Activity-18123756", "priceStatus": null, "featured": true, "featuredOrder": 2, "displayOrder": 1, "availability": "published"
+    },
+    {
+      "id": "handwriting-checklist", "title": "Handwriting Checklist", "shortDescription": "A student-friendly reminder for lining up words and numbers and slowing down to review written work.", "category": "fine-motor-handwriting", "gradeRange": "Grades 4–8", "skills": ["handwriting legibility", "self-checking", "line use", "written organization"], "seasonalTheme": null, "thumbnail": "assets/images/resources/handwriting-checklist.webp", "thumbnailAlt": "Preview of the Handwriting and Math Checklist printable with alignment and self-check examples", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Handwriting-Alignment-Checklist-Student-Self-Check-Grades-48-17578341", "priceStatus": "free", "featured": false, "featuredOrder": null, "displayOrder": 2, "availability": "published"
+    },
+    {
+      "id": "thanksgiving-turkey-yoga", "title": "Thanksgiving Turkey Yoga for Kids", "shortDescription": "Thanksgiving-themed movement prompts for classroom breaks, therapy sessions, body awareness, balance, and coordination practice.", "category": "movement-gross-motor", "gradeRange": null, "skills": ["body awareness", "motor planning", "balance", "coordination"], "seasonalTheme": "Thanksgiving", "thumbnail": "assets/images/resources/turkey-yoga.webp", "thumbnailAlt": "Preview of Thanksgiving Turkey Yoga showing illustrated turkey poses and a coloring page", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": null, "priceStatus": null, "featured": false, "featuredOrder": null, "displayOrder": 1, "availability": "published"
+    },
+    {
+      "id": "thanksgiving-food-movement", "title": "Thanksgiving Food Matching Movement Activity", "shortDescription": "A seasonal matching and movement activity that combines active play with motor planning and visual attention.", "category": "movement-gross-motor", "gradeRange": null, "skills": ["motor planning", "gross motor skills", "visual matching", "coordination"], "seasonalTheme": "Thanksgiving", "thumbnail": "assets/images/resources/thanksgiving-food-match.webp", "thumbnailAlt": "Preview of the Thanksgiving Food Match printable showing six food ingredient pairs", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": null, "priceStatus": null, "featured": false, "featuredOrder": null, "displayOrder": 2, "availability": "published"
+    },
+    {
+      "id": "classroom-regulation-tool-rules", "title": "Classroom Rules for Regulation Tools: Fidgets, Gum and Chews", "shortDescription": "A clear classroom visual for teaching expectations around tools used to support attention and regulation.", "category": "regulation-classroom", "gradeRange": "PreK–4", "skills": ["classroom routines", "tool expectations", "self-advocacy", "regulation supports"], "seasonalTheme": null, "thumbnail": "assets/images/resources/classroom-regulation-tools.webp", "thumbnailAlt": "Preview of classroom regulation rule posters for fidgets, gum, and chew tools", "thumbnailWidth": 1000, "thumbnailHeight": 1000, "tptUrl": "https://www.teacherspayteachers.com/Product/Classroom-Rules-for-Regulation-Tools-Fidgets-Gum-and-Chews-17550740", "priceStatus": "paid", "featured": true, "featuredOrder": 3, "displayOrder": 1, "availability": "published"
+    }
+  ]
+}

@@ -35,11 +35,38 @@
     });
 
     window.addEventListener("resize", function () {
-      if (window.innerWidth > 900) setMenu(false);
+      if (window.innerWidth > 1020) setMenu(false);
     });
   }
 
   document.querySelectorAll("[data-current-year]").forEach(function (element) {
     element.textContent = new Date().getFullYear();
   });
+
+  var config = window.SENSORY_SPOT_CONFIG || {};
+  var measurementId = config.ga4MeasurementId;
+
+  if (typeof measurementId === "string" && /^G-[A-Z0-9]+$/.test(measurementId)) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    window.gtag("js", new Date());
+    window.gtag("config", measurementId, { anonymize_ip: true });
+
+    var analyticsScript = document.createElement("script");
+    analyticsScript.async = true;
+    analyticsScript.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(measurementId);
+    document.head.appendChild(analyticsScript);
+
+    document.addEventListener("click", function (event) {
+      var link = event.target.closest("a[data-tpt-link]");
+      if (!link) return;
+
+      window.gtag("event", "tpt_outbound_click", {
+        product_id: link.dataset.productId || "storefront",
+        product_category: link.dataset.productCategory || "storefront",
+        destination_type: link.dataset.destinationType || (link.dataset.productId ? "product" : "storefront"),
+        source_page: window.location.pathname
+      });
+    });
+  }
 }());
